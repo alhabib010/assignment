@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&family=Work+Sans&display=swap');
 body{
     font-family: 'Karla', sans-serif;
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Work Sans', sans-serif
+font-family: 'Montserrat', sans-serif;
 }
 .thumbnai{
     padding-left: 400px;
@@ -55,8 +53,34 @@ body{
 .makes{
     margin-bottom: 50px;
 }
-.main-camera{
-    display:flex;
+#botem{
+    background-color: rgb(255, 0, 85);
+    padding: 10px;
+    border-radius: 100px;
+     padding-left: 30px;
+    padding-right: 30px;
 }
-
-
+#botem{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.iam{
+    display: flex;
+}
+.px{
+    width: 500px;
+}
+#dib{
+width: 50px;
+margin-bottom: 100px;
+}
+#h2{
+    font-size:60px;
+    width: 50%;
+}
+.makes{
+    font-size: 17px;
+}
+#nen{
+    display: flex;
+}
