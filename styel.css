@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Montserrat&family=Work+Sans&display=swap');
+body{
+    font-family: 'Karla', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Work Sans', sans-serif
+}
+.thumbnai{
+    padding-left: 400px;
+
+}
+.thumbnai-1{
+    text-align: center;
+}
+.imgese{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.botem{
+    text-decoration: none;
+    color: blanchedalmond;
+    background-color: rgb(236, 33, 101);
+    border-radius: 100px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+.caler{
+    color: gold;
+}
+.imgi{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.name{
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+.text-1-1{
+    text-align: center;
+    background-color: rgb(1, 1, 32);
+    color: white;
+}
+#aicon{
+    background-color: rgba(255, 255, 255, 0.034);
+    border-radius: 100px;
+    padding: 10px;
+}
+.see{
+    text-decoration: none;
+    text-align: right;
+    text-decoration: none;
+    color: rgb(236, 33, 101);
+}
+.makes{
+    margin-bottom: 50px;
+}
+.main-camera{
+    display:flex;
+}
+
+.thumbnai{
+    display: flex;
+}
